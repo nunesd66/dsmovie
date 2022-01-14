@@ -45,4 +45,8 @@
 
 link da página na nuvem: https://dsmovie-test.netlify.app/
 
+*demora entre 1~2 minutos para carregar os dados
+
+
+
 link oficial do projeto: https://github.com/devsuperior/sds-dsmovie
