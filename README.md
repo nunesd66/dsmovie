@@ -43,4 +43,6 @@
 
 
 
-link do projeto: https://github.com/devsuperior/sds-dsmovie
+link da página na nuvem: https://dsmovie-test.netlify.app/
+
+link oficial do projeto: https://github.com/devsuperior/sds-dsmovie
