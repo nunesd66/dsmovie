@@ -1,3 +1,5 @@
+# DSMovie - galeria de filmes
+
 **Aplicação:** galeria de filmes com opção de avaliar o filme com base no email.
 
 **Repositório:** repositório pessoal de participação no evento "Semana Spring React", de 10 de janeiro de 2022 até 15 de janeiro de 2022.
